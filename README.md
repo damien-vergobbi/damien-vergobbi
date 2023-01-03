@@ -8,12 +8,13 @@
 
 <p align="center">
   📚 I study in Ecole 42 in Lyon, France.<br>💻 I use theses languages professionally :
-  <ul>
-    <li>JavaScript ⭐️⭐️⭐️</li>
-    <li>HTML / SCSS ⭐️⭐️⭐️</li>
-    <li>PHP ⭐️⭐️</li>
-    <li>C ⭐️ </li>
-  </ul>
+  JavaScript ⭐️⭐️⭐️
+  <br />
+  HTML / SCSS ⭐️⭐️⭐️
+  <br />
+  PHP ⭐️⭐️
+  <br />
+  C / C++ ⭐️
 </p>
 
 <br />
