@@ -1,5 +1,5 @@
 
-<p align="center"> <img align="center" src="gif_code.gif" height="300" alt="Damien Vergobbi" /> </p>
+<p align="center"> <img align="center" src="gif_code.gif" width="500" alt="Damien Vergobbi" /> </p>
 <br />
 <h1 align="center"> Hello World, I'm <a href="https://damien-vergobbi.fr"> Damien Vergobbi </a> </h1>
 <br />
