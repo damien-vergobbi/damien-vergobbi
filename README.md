@@ -1,3 +1,5 @@
+<a href="https://damien-vergobbi.fr" target="blank"><img align="center" src="gif_code.gif" height="100" /></a>
+
 # 💫 About Me:
 📚 I study in l'Ecole 42 in Lyon, France.<br>💻 I use theses languages professionally :<br>        - JavaScript ⭐️⭐️⭐️<br>        - PHP ⭐️⭐️<br>        - HTML / SCSS ⭐️⭐️⭐️<br>        - C ⭐️ 
 
