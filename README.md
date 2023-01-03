@@ -3,11 +3,7 @@
 
 <h1 align="center"> Hello World, I'm <a href="https://damien-vergobbi.fr"> Damien Vergobbi </a> </h1>
 
-<br />
-
 <p align="center">
-  <h2 align="center"> 💫 About Me: </h2>
-  
   📚 I study in Ecole 42 in Lyon, France ;
   <br />I use theses languages professionally :
   <br />
