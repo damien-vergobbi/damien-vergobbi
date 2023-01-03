@@ -7,7 +7,8 @@
 <h2 align="center"> 💫 About Me: </h2>
 
 <p align="center">
-  📚 I study in Ecole 42 in Lyon, France ; 💻 I use theses languages professionally :
+  📚 I study in Ecole 42 in Lyon, France ;
+  <br />I use theses languages professionally :
   <br />
   JavaScript ⭐️⭐️⭐️
   <br />
