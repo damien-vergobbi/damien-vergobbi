@@ -4,7 +4,7 @@
 <h1 align="center"> Hello World, I'm <a href="https://damien-vergobbi.fr"> Damien Vergobbi </a> </h1>
 <br />
 <p align="center">
-  📚 I study in <a href="[https://damien-vergobbi.fr](https://42lyon.fr/)"> Ecole 42 </a> in Lyon, France ;
+  📚 I study in <a href="https://42lyon.fr/"> Ecole 42 </a> in Lyon, France ;
   <br />I use theses languages professionally :
   <br />
   JavaScript ⭐️⭐️⭐️
