@@ -46,5 +46,6 @@
 <br />
 <br />
 <p align="center">
-  <img src="[https://visitcount.itsvg.in/api?id=damien-vergobbi&icon=1&color=1](https://visitor-badge.glitch.me/badge?page_id=damien-vergobbi.damien-vergobbi)" alt="Compteur" />
+  <iframe src="https://visitor-badge.glitch.me/badge?page_id=damien-vergobbi.damien-vergobbi"  alt="Compteur" />
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=damien-vergobbi.damien-vergobbi)
 </p>
