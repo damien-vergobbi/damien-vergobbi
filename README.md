@@ -46,5 +46,5 @@
 <br />
 <br />
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DamienVergobbi&icon=1&color=1" alt="Compteur" />
+  <img src="https://visitcount.itsvg.in/api?id=damien-vergobbi&icon=1&color=1" alt="Compteur" />
 </p>
