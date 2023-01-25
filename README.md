@@ -35,7 +35,11 @@
 
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damien-vergobbi&layout=compact" alt="Languages stats" width="400" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=damien-ver&layout=compact"
+    alt="Languages stats"
+    width="400"
+  />
 </p>
 
 <br />
